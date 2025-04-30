@@ -8,7 +8,7 @@ spec:
 
   source:
     repoURL: https://github.com/Nglicloud/nginx-argocd-demo.git
-    targetRevision: HEAD
+    targetRevision: main
     path: k8s
 
   destination:
